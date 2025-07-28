@@ -1,6 +1,5 @@
 # 💫 About Me:
-<h2>Hi there, I'm Dominion! 👋<h2><br>
-
+<h2>Hi there, I'm Dominion! 👋<h2>
 <h3>🚀 Blockchain Developer | Smart Contract Engineer | Web3 Enthusiast<h3><br>
 
 Welcome to my GitHub! I'm a passionate blockchain developer with 2 years of experience building decentralized applications and smart contracts. I love creating innovative solutions in the Web3 space and contributing to the future of decentralized technology.<br>
