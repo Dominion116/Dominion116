@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Dominion! 👋<h1>
-<h2>🚀 Blockchain Developer | Smart Contract Engineer | Web3 Enthusiast<h2>
+<h2>Blockchain Developer | Smart Contract Engineer | Web3 Enthusiast<h2>
 
-<p>Welcome to my GitHub! I'm a passionate blockchain developer with 2 years of experience building decentralized applications and smart contracts. I love creating innovative solutions in the Web3 space and contributing to the future of decentralized technology.</p><br>
+<p>Welcome to my GitHub! I'm a passionate blockchain developer with years of experience building decentralized applications and smart contracts. I love creating innovative solutions in the Web3 space and contributing to the future of decentralized technology.</p><br>
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@limbotech116) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Travishtech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:limbotech116@gmail.com) 
